@@ -739,7 +739,7 @@ async def on_message(message):
                 await message.channel.send("まずは [着付けスタート] とチャットしてください")
 
 
-client.run("NzM1Nzc0NjExMjc4NTI4NTQz.XxlJoQ.uZYHTFuxrSanwTBuhRVQU8ogEOQ")
+client.run("TOKEN HERE")
 
 
 
